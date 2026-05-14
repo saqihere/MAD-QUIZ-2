@@ -32,7 +32,7 @@ class HomeActivity : AppCompatActivity() {
     private lateinit var countrySpinner: Spinner
     private lateinit var refreshButton: FloatingActionButton
 
-    private val API_KEY = "def93e4f6980822b85df36d85dab356a"
+    private val API_KEY = "5e9c6ab87ce13d55e232563e325af761"
     
     private val countries = mapOf(
         "United States" to "us",
